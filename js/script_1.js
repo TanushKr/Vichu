@@ -304,7 +304,7 @@ function reveal() {
   }
   
   var ifrm = document.createElement("iframe");
-        ifrm.setAttribute("src", "WhatsApp Video 2020-08-06 at 8.28.50 PM.mp4");
+        ifrm.setAttribute("src", "WhatsApp Image 2021-07-01 at 11.57.21 PM.jpeg");
         //ifrm.style.width = `${w}px`;
         //ifrm.style.height = `${h}px`;
         ifrm.style.border = 'none';
